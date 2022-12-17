@@ -2,7 +2,7 @@
 function rand() {
   return Math.random();
 }// genero numeri randomici
-// ---> Qui andra' inserito l'ingresso dei dai e rendenzialmente, per ogni grafico,
+// ---> Qui andra' inserito l'ingresso dei dai e tendenzialmente, per ogni grafico,
 //      andremo a lavorare con i prototipi generati in questo codice
 
 
